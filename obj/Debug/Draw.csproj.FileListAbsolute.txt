@@ -1,0 +1,7 @@
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\semka\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
